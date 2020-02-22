@@ -8,3 +8,6 @@ This software ran on my laptop and used the built-in webcam.
 An explanation of vision targets is available here: https://docs.wpilib.org/en/latest/docs/software/vision-processing/introduction/target-info-and-retroreflection.html
 
 A green LED light ring was affixed around the webcam to illuminate the vision target. A mask is created by excluding all non-green colors, then annotations are drawn on the display around blobs that match the expected characteristics of the target.
+
+### Attributions:
+Thanks go to Atul R. for developing an implementation of the C++ imshow function in Java: https://github.com/master-atul/ImShow-Java-OpenCV
