@@ -10,4 +10,4 @@ An explanation of vision targets is available here: https://docs.wpilib.org/en/l
 A green LED light ring was affixed around the webcam to illuminate the vision target. A mask is created by excluding all non-green colors, then annotations are drawn on the display around blobs that match the expected characteristics of the target.
 
 ### Attributions:
-Thanks go to Atul R. for developing an implementation of the C++ imshow function in Java: https://github.com/master-atul/ImShow-Java-OpenCV
+Special thanks go to Atul R. for developing an implementation of the C++ imshow function in Java: https://github.com/master-atul/ImShow-Java-OpenCV
